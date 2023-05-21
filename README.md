@@ -69,6 +69,9 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## Mock-Up
 
+- URL of Deployed Application: [Tech Blog](https://obscure-beach-63742.herokuapp.com/)
+- URL of GitHub Repository: [Tech Blog Repo](http://www.github.com/kaitlynatif/Tech_Blog)
+
 The following animation demonstrates the application functionality:
 
 ![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](./Assets/14-mvc-homework-demo-01.gif)
