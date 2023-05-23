@@ -9,7 +9,6 @@
 - [Usage](#Usage)
 - [Mock-Up](#Mock-Up)
 - [Built With](#Built-With)
-- [Contributions](#Contributions)
 - [License](#License)
 - [Author](#Author)
 
