@@ -8,7 +8,7 @@ const sequelize = require("../config/connection");
 
 // Function to seed all data by calling the three seed functions in sequence
 const seedAll = async () => {
-    // Synch the sequelize models and wipe out the tables
+  // Synch the sequelize models and wipe out the tables
   await sequelize.sync({ force: true });
   // Call each of the seed data functions
   await seedUsers();
