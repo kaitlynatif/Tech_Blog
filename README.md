@@ -146,6 +146,6 @@ SOFTWARE.
 
 ## Author
 
-Follow me on Github at [Kaitlyn Atif](https://github.com/kaitlynatif). Additional questions or concerns? feel free to contact me at kaitlynatif90@hotmail.com.
+Follow me on Github at [Kaitlyn Atif](https://github.com/kaitlynatif). Additional questions or concerns? Please feel free to contact me at kaitlynatif90@hotmail.com.
 
 © 2023 [Kaitlyn Atif](https://github.com/kaitlynatif). Confidential and Proprietary. All Rights Reserved.
