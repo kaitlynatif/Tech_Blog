@@ -9,8 +9,6 @@
 - [Usage](#Usage)
 - [Mock-Up](#Mock-Up)
 - [Built With](#Built-With)
-- [What I Learned](#What-I-Learned)
-- [Continued Development](#Continued-Development)
 - [Contributions](#Contributions)
 - [License](#License)
 - [Author](#Author)
@@ -91,9 +89,11 @@ Open the cloned (or downloaded) repository in any source code editor.
 - URL of Deployed Application: [Tech Blog](https://obscure-beach-63742.herokuapp.com/)
 - URL of GitHub Repository: [Tech Blog Repo](http://www.github.com/kaitlynatif/Tech_Blog)
 
-The following animation demonstrates the application functionality:
-
-![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](./Assets/14-mvc-homework-demo-01.gif)
+![Screenshots of the tech blog.](./Assets/screenshot_signup.png)
+![Screenshots of the tech blog.](./Assets/screenshot_login.png)
+![Screenshots of the tech blog.](./Assets/screenshot_homepage.png)
+![Screenshots of the tech blog.](./Assets/screenshot_dashboard.png)
+![Screenshots of the tech blog.](./Assets/screenshot_create_post.png)
 
 ## Built With:
 - JSON:[ JSON](https://www.npmjs.com/package/json)
@@ -120,7 +120,7 @@ You’ll also need the [dotenv package](https://www.npmjs.com/package/dotenv) to
 
 **Note**: The [express-session](https://www.npmjs.com/package/express-session) package stores the session data on the client in a cookie. When you are idle on the site for more than a set time, the cookie will expire and you will be required to log in again to start a new session. This is the default behavior and you do not have to do anything to your application other than implement the npm package.
 
-## License & Copyright ©
+## License
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
 
